@@ -1,0 +1,43 @@
+
+===============================
+echo "# 3" >> README.md
+git init
+===============================
+
+
+===============================
+git add Memo.txt
+git commit -m "first commit"
+===============================
+
+
+===============================
+git branch -M main
+===============================
+
+
+===============================
+git remote add origin https://github.com/kyoken241/3.git
+===============================
+
+
+===============================
+git push https://kyoken241:999Sakai@github.com/kyoken241/3.git
+
+
+git push -u origin main
+===============================
+
+
+Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+git add Memo.txt
+git commit -m "first commit"
+git push https://kyoken241:999Sakai@github.com/kyoken241/3.git
+Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+
+
+Access Token
+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
+
+
+
